@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 const body = document.body;
 body.style.textAlign = "center";
 body.style.fontFamily = "Arial, sans-serif";
